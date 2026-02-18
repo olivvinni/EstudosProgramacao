@@ -1,0 +1,27 @@
+Variáveis em programação são como “caixinhas” na memória do computador onde você pode guardar informações para usar depois.
+Explicando de forma simples.
+
+Imagine que você tem uma caixa com um rótulo:
+- O rótulo é o nome da variável
+- O que está dentro é o valor
+----------------------------------------------------
+idade = 20 
+
+idade: variavel 
+20: valor 
+----------------------------------------------------
+Elas servem para:
+
+- Guardar dados (números, textos, etc.)
+- Reutilizar informações no código
+- Tornar o programa dinâmico (valores podem mudar)
+----------------------------------------------------
+Tipos de valores comuns:
+
+- Números → 10, 3.14
+- Texto (string) → "Olá"
+- Verdadeiro ou falso → True / False
+
+
+Resumindo:
+Variável é um espaço nomeado na memória usado para armazenar dados que podem ser utilizados e alterados durante o programa.
