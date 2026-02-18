@@ -24,7 +24,7 @@ print("Altura:", altura)
 print("Estudante:", estudante)
 
 # aqui estamos verificando se a pessoa é maior de idade e mostrando na tela
-if idade >= 18:
+if int (idade) >= 18:
   print("Status: Maior de idade ✅")
 else:
   print("Status: Menor de idade ❌")
