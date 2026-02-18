@@ -1,4 +1,4 @@
-Variáveis em programação são como “caixinhas” na memória do computador onde você pode guardar informações para usar depois.
+Variáveis em programação são como “caixinhas” na memória do computador, onde você pode guardar informações para usar depois.
 Explicando de forma simples.
 
 Imagine que você tem uma caixa com um rótulo:
@@ -25,3 +25,24 @@ Tipos de valores comuns:
 
 Resumindo:
 Variável é um espaço nomeado na memória usado para armazenar dados que podem ser utilizados e alterados durante o programa.
+----------------------------------------------------
+
+EXEMPLOS de variaveis em PYTHON:
+
+nome = "Vinicius"
+idade = 20
+altura = 1.75
+estudando = True
+
+print("Nome:", nome)
+print("Idade:", idade)
+print("Altura:", altura)
+print("Está estudando?", estudando)
+
+
+O que está acontecendo nesse codigo?
+
+nome -> guarda um texto
+idade -> guarda um número inteiro
+altura -> guarda um número decimal
+estudando -> guarda um valor verdadeiro ou falso
