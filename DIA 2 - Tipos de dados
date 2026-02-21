@@ -1,0 +1,19 @@
+Em outras palavras: eles dizem ao computador “isso aqui é um número”, “isso é um texto”, “isso é verdadeiro ou falso”, etc.
+
+
+Principais tipos de dados
+
+1. Inteiro (int) == Representa números sem casas decimais
+Ex: idade = 20
+
+2. Ponto flutuante (float) == Números com casas decimais
+Ex: altura = 1.75
+
+3. String (str) == Representa texto --> Sempre entre aspas ""
+Ex: altura = 1.75
+
+4. Booleano (bool) == Só pode ter dois valores --> true ou false
+Ex: ativo = True
+
+5. Lista (list) == Armazena vários valores em sequência
+Ex: numeros = [1, 2, 3, 4]
